@@ -1,9 +1,9 @@
 ### Hi there 👋
 - I'm Nguyen Minh Vuong. Wellcome to my github.
 
-- 🌱 Contact information:
+- 🌱 Contact information: <br>
       - Email: nguyenminhvuong878@gmail.com
-- 😄 Social:
+- 😄 Social: <br>
       - https://www.facebook.com/nyyenminhvougn
 <!--
 **Minhvuong1998/Minhvuong1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
